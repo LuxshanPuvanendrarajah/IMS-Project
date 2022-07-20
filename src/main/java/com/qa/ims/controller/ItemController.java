@@ -10,7 +10,7 @@ import com.qa.ims.persistence.dao.ItemDAO;
 import com.qa.ims.persistence.domain.Item;
 import com.qa.ims.utils.Utils;
 
-public class ItemController implements CrudController<Item>{
+public class ItemController implements CrudController<Item> {
 	
 	public static final Logger LOGGER = LogManager.getLogger();
 
@@ -66,7 +66,7 @@ public class ItemController implements CrudController<Item>{
 	}
 
 	/**
-	 * Deletes an existing customer by the id of the customer
+	 * Deletes an existing item by the id of the items
 	 * 
 	 * @return
 	 */
