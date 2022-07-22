@@ -1,15 +1,25 @@
 Coverage: 34%
-# Project Title
 
-One Paragraph of project description goes here
+# IMS Project
+
 
 ## Getting Started
+This project is an inventory management system that uses Java, Maven and SQL to CREATE, READ, UPDATE and DELETE records from database tables. \n
+The database is made up of 4 tables the `CUSTOMER` table is used to store infomation about the customer e.g first name, surname.
+The `ITEM` is table is used to store information about the item e.g name, price. 
+The `ORDER` table stores information about the order and who is making the order e.g customerId. 
+The`ORDER_ITEM` table is used to store the items that are being added to the orders.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
+
+Java - Download the most recent version of Java from the Java website.
+Eclipse - Download Eclipse from the Eclipse website and pick either Eclipse for Java Developers or Enterprise Developers.
+mySQL - Download mySQL from the mySQL website .
+Maven - Download Maven from the Maven Website.
+
 
 ```
 Give examples
@@ -75,6 +85,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 
 * **Chris Perrins** - *Initial work* - [christophperrins](https://github.com/christophperrins)
+* **Luxshan Puvanendrarajah** - *Initial work* - [christophperrins](https://github.com/LuxshanPuvanendrarajah)
 
 ## License
 
@@ -84,6 +95,12 @@ This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
+* jordan Benbelaid
+* Piers Barber
+* Aswene sivaraj
+* Edward Reynold
+* Google
+* Stackoverflow
+* june enable3 team
+
