@@ -4,21 +4,21 @@ Coverage: 57.8%
 
 
 ## Getting Started
-This project is an inventory management system that uses Java, Maven and SQL to CREATE, READ, UPDATE and DELETE records from database tables. \n
-The database is made up of 4 tables the `CUSTOMER` table is used to store infomation about the customer e.g first name, surname.
-The `ITEM` is table is used to store information about the item e.g name, price. 
-The `ORDER` table stores information about the order and who is making the order e.g customerId. 
-The`ORDER_ITEM` table is used to store the items that are being added to the orders.
+This project is an inventory management system that uses Java, Maven and SQL to CREATE, READ, UPDATE and DELETE records from database tables.<br/>
+The database is made up of 4 tables the `CUSTOMER` table is used to store infomation about the customer e.g first name, surname.<br/>
+The `ITEM` is table is used to store information about the item e.g name, price. <br/>
+The `ORDER` table stores information about the order and who is making the order e.g customerId.<br/>
+The`ORDER_ITEM` table is used to store the items that are being added to the orders.<br/>
 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-Java - Download the most recent version of Java from the Java website.
-Eclipse - Download Eclipse from the Eclipse website and pick either Eclipse for Java Developers or Enterprise Developers.
-mySQL - Download mySQL from the mySQL website .
-Maven - Download Maven from the Maven Website.
+Java - Download the most recent version of Java from the Java website.<br/>
+Eclipse - Download Eclipse from the Eclipse website and pick either Eclipse for Java Developers or Enterprise Developers.<br/>
+mySQL - Download mySQL from the mySQL website .<br/>
+Maven - Download Maven from the Maven Website.<br/>
 
 
 ```
@@ -85,7 +85,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 
 * **Chris Perrins** - *Initial work* - [christophperrins](https://github.com/christophperrins)
-* **Luxshan Puvanendrarajah** - *Initial work* - [christophperrins](https://github.com/LuxshanPuvanendrarajah)
+* **Luxshan Puvanendrarajah** - *Initial work* - [LuxshanPuvanendrarajah](https://github.com/LuxshanPuvanendrarajah)
 
 ## License
 
