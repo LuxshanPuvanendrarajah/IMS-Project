@@ -1,5 +1,6 @@
 package com.qa.ims.controller;
 
+import java.sql.SQLException;
 import java.util.List;
 
 /**
@@ -10,7 +11,7 @@ public interface CrudController<T> {
 
 	List<T> readAll();
 
-	T create();
+	T create() throws SQLException;
 
 	T update();
 
