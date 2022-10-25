@@ -1,6 +1,6 @@
 Coverage: 57.8%
 
-# IMS Project
+# Inventory Management system Project
 
 
 ## Getting Started
